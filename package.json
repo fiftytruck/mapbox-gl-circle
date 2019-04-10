@@ -82,7 +82,7 @@
     "watchify": "^3.10.0"
   },
   "dependencies": {
-    "@turf/bbox": "^5.1.6",
+    "@turf/bbox": "^5.1.5",
     "@turf/bbox-polygon": "^5.1.5",
     "@turf/bearing": "^5.1.6",
     "@turf/circle": "^5.1.6",
